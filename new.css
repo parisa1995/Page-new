@@ -11,10 +11,10 @@
 }
 .btn-first button {
     font-size: 2em;
-    width: 40%;
+   
     border: 1px solid orangered;
     margin: 5px;
-    padding: 5px;
+    
 }
 .btn-first {
     border: 1px solid purple;
